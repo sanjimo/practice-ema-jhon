@@ -1,0 +1,12 @@
+.cart {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.order-summary {
+  text-align: center;
+}
+
+.items-ordered {
+  text-align: center;
+}
