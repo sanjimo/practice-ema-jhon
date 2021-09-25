@@ -5,6 +5,11 @@
 
 .product-container {
   margin-right: 5px;
-  margin-left: 50px;
+  margin-left: 90px;
   border-right: 1px solid lightgray;
+}
+
+.cart-container {
+  text-align: center;
+  font-weight: 400;
 }
